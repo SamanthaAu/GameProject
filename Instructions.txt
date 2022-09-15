@@ -1,0 +1,26 @@
+Goal: Escape the police and earn money from robbing
+Win a level: earn 100 dollars and 10 extra dollars for each remaining life
+Lose a level: thrown in jail and pay 50 dollars for bailing 
+End: become in debt, finish all 9 levels, or press home
+Top 5 robbers with the most money are shown on Leaderboard
+Main game objective: shoot down all police
+and security guards
+Levels: 1st, 2nd, and 3rd rows are stationary
+obstacles, moving obstacles, and bombs 
+respectively
+1st, 2nd, 3rd columns have 2, 4, and 6 
+obstacles respectively
+End: Lose all 10 lives or
+If all police are shot, click money image
+After every 3 levels: mini game shows up
+Mini game objective: avoid cars on 
+edges of street
+Levels: 1st, 2nd, and 3rd levels add police 
+cars(stationary), taxis (horizontal), and 
+firetrucks(horizontal) respectively
+All levels: ambulance gives bubble 
+as extra life
+End: Lose all 3 lives or
+Reach a distance of 500
+
+
